@@ -10,8 +10,8 @@ static const int usealtbar          = 1;        /* 1 means use non-dwm status ba
 static const char *altbarclass      = "Polybar"; /* Alternate bar class name */
 static const char *alttrayname      = "tray";    /* Polybar tray instance name */
 static const char *altbarcmd        = "$HOME/.launch-polybar.sh"; /* Alternate bar launch command */
-static const char *fonts[]          = { "mononoki:size=13", /* "fontawesome:size=11" */ "meslolgs nf:size=13" };
-static const char dmenufont[]       = "mononoki:size=13";
+static const char *fonts[]          = { "meslolgs nf:size=11" };
+static const char dmenufont[]       = "meslolgs nf:size=11";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
